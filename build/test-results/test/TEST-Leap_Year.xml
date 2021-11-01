@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Leap_Year" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-11-01T11:02:12" hostname="DESKTOP-N53HAV1" time="0.069">
+  <properties/>
+  <testcase name="Years_Not_Dividable_By_Four_Are_Not_Leap_Years()" classname="Leap_Year" time="0.049"/>
+  <testcase name="Years_Dividable_By_Four_But_Not_Hundred_Are_Leap_Years()" classname="Leap_Year" time="0.002"/>
+  <testcase name="Years_Dividable_By_Four_Hundred_Are_Leap_Years()" classname="Leap_Year" time="0.011"/>
+  <testcase name="Years_Dividable_By_Hundred_But_Not_Four_Hundred_Are_Not_Leap_Years()" classname="Leap_Year" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
